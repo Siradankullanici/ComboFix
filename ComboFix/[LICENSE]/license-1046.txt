@@ -1,0 +1,5 @@
+Esse programa é distribuído 'como é', sem nenhum tipo de garantia. Todas as garantias implícitas são expressamente desmentidas. 
+
+O ComboFix é de uso privado. Ele nunca deverá ser utilizado em um ambiente sem supervisão. Se infecções forem encontradas, ele automaticamente reiniciará a máquina para completar o processo de remoção. Por favor assegure-se de fechar todas as janelas abertas antes de continuar.
+
+Um guia sobre como utilizar o ComboFix corretamente pode ser encontrado em: http://www.bleepingcomputer.com/combofix/pt/como-usar-o-combofix

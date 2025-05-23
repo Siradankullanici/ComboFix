@@ -1,0 +1,5 @@
+Denne programvaren leveres 'som den er', uten noen form for garanti. All uttrykt eller innforstått garanti tilbakevises.
+
+Dette verktøyet er ment for privat bruk. Det bør aldri brukes alene av ukyndige personer uten tilsyn. Hvis infeksjoner oppdages vil maskinen automatisk bli startet på nytt for å fullføre desinfiseringen. Vennligst lukk alle åpne vinduer før du fortsetter.
+
+En guide på riktig bruk av ComboFix er tilgjengelig her: http://www.bleepingcomputer.com/combofix/how-to-use-combofix

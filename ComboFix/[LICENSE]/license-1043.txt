@@ -1,0 +1,5 @@
+Deze software wordt ter beschikking gesteld 'zoals ze is', zonder enige garantie. Elke veronderstelde garantie wordt uitdrukkelijk afgewezen.
+
+ComboFix is bestemd voor privaat gebruik. Het zou nooit mogen worden gebruikt zonder toezicht. Indien besmettingen worden aangetroffen, zal het automatisch de computer herstarten om de verwijdering af te ronden. Gelieve er voor te zorgen dat alle geopende vensters worden afgesloten vooraleer verder te gaan.
+
+Een handleiding voor het correcte gebruik van ComboFix kan hier gevonden worden : http://www.bleepingcomputer.com/combofix/nl/hoe-dient-combofix-gebruikt-te-worden

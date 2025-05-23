@@ -1,0 +1,3 @@
+Il software è fornito 'così com'è', senza garanzie di alcun tipo. Tutte le garanzie espressamente implicite sono smentite.
+
+Questo strumento è inteso per uso privato. Non dovrebbe essere mai usata in un ambiente non controllati. Se le infezioni sono trovati, sarà automaticamente il riavvio di Windows per completare il processo di rimozione. Per piacere, assicuratevi che tutte le finestre siano chiuse prima di procedere.

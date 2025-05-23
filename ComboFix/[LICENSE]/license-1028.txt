@@ -1,0 +1,5 @@
+ComboFix 是個供私人使用的軟件.您不應該在一個未受監督的環境下使用 ComboFix. 當 ComboFix 找到電腦病毒時，它將會自動重新啟動電腦. 請把所有的文件都儲存好之后再繼續.
+
+使用本軟件由用戶自己承擔風險.這軟件沒有任何的保証條款. 所有的寓意保証條款將會不成立.
+
+ComboFix 的正確使用方法可在此網頁找到： http://www.bleepingcomputer.com/combofix/how-to-use-combofix

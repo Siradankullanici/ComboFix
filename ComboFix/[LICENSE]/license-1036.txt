@@ -1,0 +1,5 @@
+Ce logiciel vous est proposé 'tel quel', sans aucune garantie d'aucune sorte. Toutes les garanties implicites sont exclues. 
+
+ComboFix a été créé pour un usage privé. Il ne doit jamais être utilisé sans supervision. Si des infections sont détectées, l'outil fera redémarrer automatiquement le PC pour achever le processus de suppression. Veuillez vous assurer que toutes les fenêtres de programme sont bien fermées avant de continuer.
+
+Un guide pour une utilisation correcte de ComboFix se trouve ici: http://www.bleepingcomputer.com/combofix/fr/comment-utiliser-combofix

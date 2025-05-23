@@ -1,0 +1,5 @@
+Tato aplikace je poskytnuta 'tak jak je', bez jakékoli záruky jakéhokoli druhu. Veškeré uplatnìné záruky budou výslovnì zamítnuty.
+
+Tento nástroj slouží k soukromému užití. Nikdy by nemìl být použit v prostøedí bez dozoru zkušené osoby. Pokud bude nalezena infekce, ComboFix automaticky restartuje poèítaè pro dokonèení èistícího procesu. Prosím ujistìte se, že máte ukonèeny veškeré aplikace pøedtím, než budete pokraèovat.
+
+Prùvodce pro správné použití ComboFixu je k dispozici zde: http://www.bleepingcomputer.com/combofix/how-to-use-combofix

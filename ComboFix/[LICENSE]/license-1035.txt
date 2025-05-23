@@ -1,0 +1,5 @@
+Tämä ohjelma tarjotaan 'sellaisenaan', ilman takuuta. Kaikki väitetyt takuut kiistetään.
+
+ComboFix on tarkoitettu yksityiseen käyttöön. Sitä ei koskaan tule käyttää ilman valvontaa. Mikäli infektioita löytyy, se käynnistää koneen uudelleen automaattisesti. Varmistu, että kaikki avoimet ikkunat on suljettu ennen kuin jatkat.
+
+ComboFixin käyttö löytyy täältä: http://www.bleepingcomputer.com/combofix/how-to-use-combofix

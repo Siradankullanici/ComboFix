@@ -1,0 +1,5 @@
+Oprogramowanie to udostêpniane jest na zasadzie 'jak jest' ('as is'), bez ¿adnego rodzaju gwarancji. Autor programu zrzeka siê wszelkiego rodzaju gwarancji.
+
+Narzêdzie to przeznaczone jest do u¿ytku prywatnego. ComboFix nigdy nie powinien byæ u¿ywany bez nadzoru osób obeznanych z jego dzia³aniem i mo¿liwoœciami. Jeœli infekcje zostan¹ znalezione, program automatycznie uruchomi ponownie system Windows, by dokoñczyæ proces usuwania. Przed kontynuacj¹ proszê siê upewniæ, ¿e wszystkie otwarte okna s¹ zamkniête.
+
+Instrukcja dotycz¹ca prawid³owego u¿ycia programu ComboFix dostêpna jest pod adresem: http://www.bleepingcomputer.com/combofix/pl/instrukcja-uzycia-combofix

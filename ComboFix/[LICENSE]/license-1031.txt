@@ -1,0 +1,5 @@
+Die Software wird “as is” (im Istzustand) zur Verfügung gestellt, ohne jegliche Garantie. Alle implizierten Garantien werden ausdrücklich dementiert.
+
+ComboFix ist für den privaten Gebrauch gedacht. Es sollte niemals in einem unbeaufsichtigtem Umfeld genutzt werden. Wenn Infizierungen gefunden werden, wird es automatisch den PC neustarten um den Entfernungsprozess zu vervollständigen. Bitte stelle sicher dass alle offenen Fenster geschlossen sind, bevor fortgefahren wird.
+
+Ein Tutorium zur richtigen Anwendung von Combofix kann hier gefunden werden: http://www.bleepingcomputer.com/combofix/de/wie-combofix-benutzt-wird

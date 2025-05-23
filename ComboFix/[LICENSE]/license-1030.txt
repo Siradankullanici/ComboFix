@@ -1,0 +1,3 @@
+Dette program leveres 'som det er', uden nogle garantier. Alle indirekte og implicite garantier afvises udtrykkeligt.
+
+Dette værktøj er beregnet til privat brug. Det må ikke anvendes uden vejledning fra kvalificeret hjælper. Hvis der findes infektioner vil programmet automatisk genstarte Windows for at afslutte rensningen. Venligst luk alle øvrige vinduer og afslut øvrige programmer inden du fortsætter.

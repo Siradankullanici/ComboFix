@@ -1,0 +1,5 @@
+Denna programvara tillhandahålls i 'befintligt skick', utan några som helst garantier. Alla underförstådda garantier förnekas uttryckligen.
+
+Detta verktyg är endast avsett för privat bruk och ska aldrig användas i en oövervakad miljö. Om infektioner upptäcks, kommer programmet automatiskt starta om datorn för att slutföra borttagningen. Vänligen stäng alla öppna fönster innan du fortsätter.
+
+En guide för hur ComboFix skall användas finns här: http://www.bleepingcomputer.com/combofix/se/hur-combofix-ska-anvandas
